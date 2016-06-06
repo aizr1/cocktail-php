@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d263e9dd-c2db-4376-8dcf-d46fdd9877ef" name="aizr.one" url="http://aizr.one">
+        <fileTransfer host="aizr.one" port="21" password="df98df9fdff3dfdddfc1dfccdf8fdf9e" username="one">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

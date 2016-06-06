@@ -27,6 +27,13 @@
   <div class="phpoutput">
       
       <h4>Login</h4>
+    <form action="login.php" method="get">
+      username: <br>
+        <input type="text" name="username" size="20" maxlength="30">
+      passwort: <br>
+      <input type="password" name="passwort" size="20" maxlength="30">
+      <input type="submit" value="login">
+    </form>
     
     
     
