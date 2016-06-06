@@ -7,20 +7,32 @@
   </head>
   <body>
 
-    <!--  HEADER -->
-    <nav id="nav">
+
+
+
+  <!--  HEADER -->
+
+
+  <nav id="nav">
       <ul>
         <li><a href="index.php">HOME</a></li>
         <li><a href="all.php">ALLE DRINKS</a></li>
         <li><a href="suche.php">SUCHE</a></li>
+        <li><a href="register.php"></a>LOGIN</li>
       </ul>
-    </nav>
+  </nav>
 
 
 <!-- PHP SECTION --->
-
-
   <div class="phpoutput">
+      
+      <h4>Login</h4>
+    
+    
+    
+      
+    
+    
       <?php echo "Whats your number?"; ?>
       <?php echo "gibt mir nen random cocktail hier"; ?>
   </div>
