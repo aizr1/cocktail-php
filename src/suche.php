@@ -26,16 +26,7 @@
 
 <!-- PHP SECTION --->
 <div class="phpoutput">
-
-
-
-
-
-
-
-
-  <?php echo "Whats your number?"; ?>
-  <?php echo "gibt mir nen random cocktail hier"; ?>
+  <?php echo "<h1>SUCHENSUCHNESUCHEN</h1>"; ?>
 </div>
 
 <footer>

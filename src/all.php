@@ -25,17 +25,13 @@
 
 
 <!-- PHP SECTION --->
-  <div class="phpoutput">
+  <div>
+      <?php echo "gib mir alle cocktails"; ?>
+      <?php 
       
- 
-    
-    
-    
-      
-    
-    
-      <?php echo "Whats your number?"; ?>
-      <?php echo "gibt mir nen random cocktail hier"; ?>
+      while (!xxx = xxx)
+          echo "abc"
+          ?>
   </div>
   
     <footer>

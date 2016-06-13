@@ -25,17 +25,11 @@
 
 
 <!-- PHP SECTION --->
-<div class="phpoutput">
-
-
-
-
-
-
-
-
+<div>
+  
+  <?php //random_cocktail(); ?>
   <?php echo "Whats your number?"; ?>
-  <?php echo "gibt mir nen random cocktail hier"; ?>
+  <?php echo "<h4><?php random_cocktail(); ?></h4>"; ?>
 </div>
 
 <footer>

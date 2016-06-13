@@ -25,11 +25,10 @@
 
 
 <!-- PHP SECTION --->
-<div class="phpoutput">
-
-
-    <h4>Login</h4>
-    <form action="login.php" method="post">
+<div>
+    <h4>Registrieren</h4>
+    <p>wanna cocktail?</p>
+    <form action="register.php" method="get">
         <label>mail: <br>
             <input type="text" name="mail" size="20" maxlength="30"><br>
         </label>
@@ -45,10 +44,9 @@
     <?php echo "Whats your number?"; ?>
     <?php echo "gibt mir nen random cocktail hier"; ?>
 </div>
-
 <footer>
     <p>
-        Das hier ist der Footer. Hier steht z.b. das Datum...
+        footertxt
     </p>
     <h1><?php echo date("D, d.m.Y, H:i")." Uhr"; ?></h1>
 </footer>
