@@ -41,8 +41,6 @@
         <input type="submit" value="rein da"><br>
     </form>
 
-    <?php echo "Whats your number?"; ?>
-    <?php echo "gibt mir nen random cocktail hier"; ?>
 </div>
 <footer>
     <p>
