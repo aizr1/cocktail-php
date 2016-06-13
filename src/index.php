@@ -17,8 +17,8 @@
       <ul>
         <li><a href="index.php">HOME</a></li>
         <li><a href="all.php">ALLE DRINKS</a></li>
-        <li><a href="suche.php">SUCHE</a></li>
-        <li><a href="register.php"></a>LOGIN</li>
+        <li><a href="suche.php">SUCHEN</a></li>
+        <li><a href="register.php">WANNA REGISTER?</a></li>
       </ul>
   </nav>
 
@@ -28,11 +28,13 @@
       
       <h4>Login</h4>
     <form action="login.php" method="get">
-      username: <br>
-        <input type="text" name="username" size="20" maxlength="30">
-      passwort: <br>
-      <input type="password" name="passwort" size="20" maxlength="30">
-      <input type="submit" value="login">
+      <label>username: <br>
+        <input type="text" name="username" size="20" maxlength="30"><br>
+      </label>
+      <label>passwort: <br>
+        <input type="password" name="passwort" size="20" maxlength="30"><br><br>
+      </label>
+      <input type="submit" value="login"><br>
     </form>
     
     
