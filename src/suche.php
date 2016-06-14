@@ -6,13 +6,7 @@
   <title><?php echo "PHP WORKS"; ?></title>
 </head>
 <body>
-
-
-
-
 <!--  HEADER -->
-
-
 <nav id="nav">
   <ul>
     <li><a href="index.php">HOME</a></li>
@@ -25,7 +19,7 @@
 
 
 <!-- PHP SECTION --->
-<div class="phpoutput">
+<div>
   <?php echo "<h1>SUCHENSUCHNESUCHEN</h1>"; ?>
 </div>
 

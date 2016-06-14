@@ -6,13 +6,7 @@
     <title><?php echo "PHP WORKS"; ?></title>
 </head>
 <body>
-
-
-
-
 <!--  HEADER -->
-
-
 <nav id="nav">
     <ul>
         <li><a href="index.php">HOME</a></li>
@@ -22,14 +16,8 @@
         <li><a href="login.php">LOGIN</a></li>
     </ul>
 </nav>
-
-
 <!-- PHP SECTION --->
 <div>
-
-
-
-
     <h4>Login</h4>
     <p>do not be a maybe...</p>
     <form action="login.php" method="post">
